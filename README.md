@@ -34,18 +34,18 @@ quality.
 </table>
 
 ## Quick Run  
-You can simply demo on the space of **[Hugging Face](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)**:  
+You can simply demo on the space of **[Hugging Face](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)**  
 
-Or test on local environment:  
+or test on local environment:  
 
-To test the pre-trained models of Denoising on your own images, run
+To test the pre-trained models of enhancing on your own images, run
 ```
 python demo.py --input_dir images_folder_path --result_dir save_images_here --weights path_to_models
 ```
-**All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/SRMNet/releases)**  
+**All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/HWMNet/releases)**  
 
 ## Train  
-To train the restoration models of Denoising. You should check the following components are correct:  
+To train the restoration models of low-light enhancement. You should check the following components are correct:  
 - `training.yaml`:  
   ```
   # Training configuration
@@ -54,14 +54,14 @@ To train the restoration models of Denoising. You should check the following com
   VERBOSE: False
 
   MODEL:
-    MODE: 'SRMNet_denoise'
+    MODE: 'HWMNet-96-LOL'
 
   # Optimization arguments.
   OPTIM:
     BATCH: 2
     EPOCHS: 100
     # EPOCH_DECAY: [10]
-    LR_INITIAL: 1e-4
+    LR_INITIAL: 2e-4
     LR_MIN: 1e-6
     # BETA1: 0.9
 
@@ -70,8 +70,8 @@ To train the restoration models of Denoising. You should check the following com
     RESUME: False
     TRAIN_PS: 256
     VAL_PS: 256
-    TRAIN_DIR: 'D:/PycharmProjects/SUNet-main/datasets/Denoising_DIV2K/train'       # path to training data
-    VAL_DIR: 'D:/PycharmProjects/SUNet-main/datasets/Denoising_DIV2K/test' # path to validation data
+    TRAIN_DIR: './datasets/LOL/train'       # path to training data
+    VAL_DIR: './datasets/LOL/test' # path to validation data
     SAVE_DIR: './checkpoints'           # path to save models and images
   ```
   
