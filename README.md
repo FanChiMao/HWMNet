@@ -17,7 +17,7 @@ quality.
 ## Network Architecture  
 <table>
   <tr>
-    <td colspan="2"><img src = "https://i.imgur.com/GYeypta.png" alt="HWMNet" width="800"> </td>  
+    <td colspan="2"><img src = "https://i.imgur.com/BeT2g0y.png" alt="HWMNet" width="800"> </td>  
   </tr>
   <tr>
     <td colspan="2"><p align="center"><b>Overall Framework of SRMNet</b></p></td>
