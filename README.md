@@ -20,15 +20,15 @@ quality.
     <td colspan="2"><img src = "https://i.imgur.com/BeT2g0y.png" alt="HWMNet" width="800"> </td>  
   </tr>
   <tr>
-    <td colspan="2"><p align="center"><b>Overall Framework of SRMNet</b></p></td>
+    <td colspan="2"><p align="center"><b>Overall Framework of HWMNet</b></p></td>
   </tr>
-  
+
   <tr>
-    <td> <img src = "https://i.imgur.com/z6Vds87.png" width="400"> </td>
+    <td> <img src = "https://i.imgur.com/FPR0WoU.png" width="400"> </td>
     <td> <img src = "https://i.imgur.com/eaLejBK.png" width="400"> </td>
   </tr>
   <tr>
-    <td><p align="center"><b>Selective Residual Block (SRB)</b></p></td>
+    <td><p align="center"><b>Half Wavelet Attention Block (HWAB)</b></p></td>
     <td><p align="center"> <b>Resizing Block (Pixel Shuffle)</b></p></td>
   </tr>
 </table>
