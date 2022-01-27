@@ -92,14 +92,17 @@ python evaluation.py -dirA images_folder_path -dirB images_folder_path -type ima
 
 ## Result  
 - Evaluation on LOL dataset  
-<img src = "https://i.imgur.com/NUIAWaN.png" width="500">  
+<img src = "https://i.imgur.com/NUIAWaN.png" width="450">  
 
 - Evaluation on MIT-Adobe FiveK dataset  
 <img src = "https://i.imgur.com/Dw6vhmq.png" width="800">  
 
 ## Visual Comparison  
+- Evaluation on LOL dataset  
+<img src = "https://i.imgur.com/qmxlPOG.png" width="800">  
 
-<img src = "https://i.imgur.com/H9CWlll.png" width="800">  
+- Evaluation on MIT-Adobe FiveK dataset  
+<img src = "https://i.imgur.com/EIbfRzx.png" width="500">  
 
 **More visual results can be downloaded at [here](https://github.com/FanChiMao/SRMNet/releases).**  
 
