@@ -91,11 +91,11 @@ python evaluation.py -dirA images_folder_path -dirB images_folder_path -type ima
 ```
 
 ## Result  
-- AWGN image denoising  
-<img src = "https://i.imgur.com/TILnGHa.png" width="800">  
+- Evaluation on LOL dataset  
+<img src = "https://i.imgur.com/NUIAWaN.png" width="800">  
 
-- Real image denoising  
-<img src = "https://i.imgur.com/vxt6Vs9.png" width="400">  
+- Evaluation on MIT-Adobe FiveK dataset  
+<img src = "https://i.imgur.com/Dw6vhmq.png" width="400">  
 
 ## Visual Comparison  
 
