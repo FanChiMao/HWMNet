@@ -31,7 +31,7 @@ quality.
     <td><p align="center"><b>Half Wavelet Attention Block (HWAB)</b></p></td>
     <td><p align="center"> <b>Resizing Block (Pixel Shuffle)</b></p></td>
   </tr>
-
+</table>
 
 ## Quick Run  
 You can simply demo on the space of **[Hugging Face](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)**:  
