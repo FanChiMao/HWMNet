@@ -104,7 +104,7 @@ python evaluation.py -dirA images_folder_path -dirB images_folder_path -type ima
 - Evaluation on MIT-Adobe FiveK dataset  
 <img src = "https://i.imgur.com/EIbfRzx.png" width="500">  
 
-**More visual results can be downloaded at [here](https://github.com/FanChiMao/SRMNet/releases).**  
+**More visual results can be downloaded at [here](https://github.com/FanChiMao/HWMNet/releases).**  
 
 
 ## Citation  
