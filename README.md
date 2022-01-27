@@ -34,7 +34,7 @@ quality.
 </table>
 
 ## Quick Run  
-You can simply demo on the space of **[Hugging Face](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)**  
+You can simply demo on my space of **[Hugging Face](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)**  
 
 or test on local environment:  
 
@@ -76,7 +76,7 @@ To train the restoration models of low-light enhancement. You should check the f
   ```
   
 - Dataset:  
-  The preparation of dataset in more detail, see [Dataset/README.md](Dataset/README.md).  
+  The preparation of dataset in more detail, see [datasets/README.md](datasets/README.md).  
   
 - Train:  
   If the above path and data are all correctly setting, just simply run:  
@@ -84,10 +84,11 @@ To train the restoration models of low-light enhancement. You should check the f
   python train.py
   ```  
 ## Test (Evaluation)  
-
-- To run the models of real image denoising, see [test_DND_real_denoising.py](./test_DND_real_denoising.py) and [test_SIDD_real_denoising.py](./test_SIDD_real_denoising.py).  
-- To test the PSNR and SSIM of *real image denoising*, see [evaluation_DND.py](./evaluation_DND.py) and [evaluation_SIDD.m](./evaluation_SIDD.m).  
-- To test the PSNR and SSIM of *AWGN image denoising*, see the [evaluation.m](./evaluation.m).  
+ 
+- To test the PSNR, SSIM and LPIPS of *image enhancement*, see [evaluation.py](./evaluation.py) and run
+```
+python evaluation.py -dirA images_folder_path -dirB images_folder_path -type image_data_type --use_gpu use_gpu_or_not
+```
 
 ## Result  
 - AWGN image denoising  
