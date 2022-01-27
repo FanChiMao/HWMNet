@@ -92,7 +92,7 @@ python evaluation.py -dirA images_folder_path -dirB images_folder_path -type ima
 
 ## Result  
 - Evaluation on LOL dataset  
-<img src = "https://i.imgur.com/NUIAWaN.png" width="800">  
+<img src = "https://i.imgur.com/NUIAWaN.png" width="400">  
 
 - Evaluation on MIT-Adobe FiveK dataset  
 <img src = "https://i.imgur.com/Dw6vhmq.png" width="800">  
