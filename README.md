@@ -34,7 +34,7 @@ quality.
 
 
 ## Quick Run  
-You can simply demo on the space of [Hugging Face](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement):  
+You can simply demo on the space of **[Hugging Face](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)**:  
 
 Or test on local environment:  
 
