@@ -89,6 +89,26 @@ To train the restoration models of low-light enhancement. You should check the f
   ```
   python train.py
   ```  
+
+- Details of Hyperparameters
+```
+-------------------------------------------------
+LOL dataset:
+Training patches: 4850 (485 x 10)
+Validation: 15
+Initial learning rate: 5e-5
+Final learning rate: 1e-5
+Training epochs: 300 (200 is enough)
+
+MIT-5K dataset:
+Training patches: 36000 (4500 x 8)
+Validation: 500
+Initial learning rate: 1e-4
+Final learning rate: 1e-6
+Training epochs: 100
+-------------------------------------------------
+```
+
 ## Test (Evaluation)  
  
 - To test the PSNR, SSIM and LPIPS of *image enhancement*, see [evaluation.py](./evaluation.py) and run
