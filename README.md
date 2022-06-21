@@ -1,4 +1,4 @@
-# Half Wavelet Attention on M-Net+ for Low-light Image Enhancement  
+# [ICIP 2022] Half Wavelet Attention on M-Net+ for Low-light Image Enhancement  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/half-wavelet-attention-on-m-net-for-low-light/low-light-image-enhancement-on-lol)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lol?p=half-wavelet-attention-on-m-net-for-low-light)  
 This conference has not yet been held, only the preprint paper of arXiv presented below now.  
 ## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu  
