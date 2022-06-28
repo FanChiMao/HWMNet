@@ -5,7 +5,8 @@ This conference has not yet been held, only the preprint paper of arXiv presente
 [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2203.01296)
 [![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)]()
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)]()
-[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)]()  
+[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)]()
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)  
 
 > Abstract : Low-Light Image Enhancement is a compute vision task which reinforces
 the dark images to appropriate brightness. It can also be
