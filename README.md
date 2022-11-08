@@ -1,7 +1,7 @@
 # [ICIP 2022] [Half Wavelet Attention on M-Net+ for Low-light Image Enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897503)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/half-wavelet-attention-on-m-net-for-low-light/low-light-image-enhancement-on-lol)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lol?p=half-wavelet-attention-on-m-net-for-low-light)  
 
-## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu  
+## [Chi-Mao Fan](https://github.com/FanChiMao), Tsung-Jung Liu, Kuan-Hsien Liu   
 [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2203.01296) 
 [![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9897503) 
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://youtu.be/docLJbxJkyA) 
