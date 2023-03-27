@@ -139,11 +139,13 @@ python evaluation.py -dirA images_folder_path -dirB images_folder_path -type ima
 ## Citation  
 
 ```
-@article{fan2022half,
-  title={Half Wavelet Attention on M-Net+ for Low-Light Image Enhancement},
+@inproceedings{fan2022half,
+  title={Half wavelet attention on M-Net+ for low-light image enhancement},
   author={Fan, Chi-Mao and Liu, Tsung-Jung and Liu, Kuan-Hsien},
-  journal={arXiv preprint arXiv:2203.01296},
-  year={2022}
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+  pages={3878--3882},
+  year={2022},
+  organization={IEEE}
 }
 ```
 ## Contact  
