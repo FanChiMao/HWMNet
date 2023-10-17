@@ -7,7 +7,8 @@
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://youtu.be/docLJbxJkyA) 
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://docs.google.com/presentation/d/1S9NA2iRXbMGQEcEupBIzcomO-fi4y0i7/edit?usp=sharing&ouid=108348190349543369603&rtpof=true&sd=true) 
 [![poster](https://img.shields.io/badge/Summary-Poster-9cf)](https://drive.google.com/file/d/1TWtzoS5TusoTgXhohxd0gmqKybfg2jnk/view?usp=sharing) 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement)  
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/HWMNet_lowlight_enhancement) 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FHWMNet&label=visitors&countColor=%232ccce4&style=plastic)  
 
 > Abstract : Low-Light Image Enhancement is a compute vision task which reinforces
 the dark images to appropriate brightness. It can also be
@@ -151,4 +152,4 @@ python evaluation.py -dirA images_folder_path -dirB images_folder_path -type ima
 ## Contact  
 If you have any question, feel free to contact qaz5517359@gmail.com  
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FHWMNet&label=visitors&countColor=%232ccce4&style=plastic)  
+
